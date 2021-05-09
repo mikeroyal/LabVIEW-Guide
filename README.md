@@ -6,7 +6,13 @@
 
 #### A guide covering LabVIEW including the applications and tools that will make you a better and more efficient LabVIEW developer.
 
-## Resources
+ **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+<img src="https://user-images.githubusercontent.com/45159366/117586365-9421eb80-b0cc-11eb-88ff-9c86113e2dd4.png">
+ 
+ **LabView Overview. Source: [LabView](https://www.ni.com/en-us/shop/labview.html)**
+
+# LabView Learning Resources
 
 [Laboratory Virtual Instrument Engineering Workbench (LabVIEW)](https://www.ni.com/en-us/shop/labview.html) is a graphical programming approach that helps you visualize every aspect of your application, including hardware configuration, measurement data, and debugging. 
 
@@ -30,7 +36,7 @@
 
 [LabVIEW Open Source Project GitHub](https://github.com/LabVIEW-Open-Source)
 
-## Tools
+# LabView Tools
 
 [LabVIEW NXG](https://www.ni.com/en-us/shop/labview/labview-nxg.html) is the next generation of LabVIEW that quickly automates your hardware, customizing tests to your specifications, and easily viewing measurement results from anywhere.
 
