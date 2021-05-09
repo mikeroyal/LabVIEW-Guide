@@ -62,6 +62,4 @@
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/LabVIEW-Guide#table-of-contents)
-
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
