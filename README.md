@@ -10,9 +10,9 @@
  
 <img src="https://user-images.githubusercontent.com/45159366/117586365-9421eb80-b0cc-11eb-88ff-9c86113e2dd4.png">
  
- **LabView Overview. Source: [LabView](https://www.ni.com/en-us/shop/labview.html)**
+ **LabVIEW Overview. Source: [LabVIEW](https://www.ni.com/en-us/shop/labview.html)**
 
-# LabView Learning Resources
+# LabVIEW Learning Resources
 
 [Laboratory Virtual Instrument Engineering Workbench (LabVIEW)](https://www.ni.com/en-us/shop/labview.html) is a graphical programming approach that helps you visualize every aspect of your application, including hardware configuration, measurement data, and debugging. 
 
@@ -36,7 +36,7 @@
 
 [LabVIEW Open Source Project GitHub](https://github.com/LabVIEW-Open-Source)
 
-# LabView Tools
+# LabVIEW Tools
 
 [LabVIEW NXG](https://www.ni.com/en-us/shop/labview/labview-nxg.html) is the next generation of LabVIEW that quickly automates your hardware, customizing tests to your specifications, and easily viewing measurement results from anywhere.
 
@@ -53,3 +53,15 @@
 [Featherweight](https://github.com/featherweight/featherweight) is an Application Framework for NI LabVIEW™.
 
 [LV-MQTT-Broker](https://github.com/LabVIEW-Open-Source/LV-MQTT-Broker) is the native LabVIEW MQTT Broker Server.
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/LabVIEW-Guide/pulls).
+
+
+## License
+
+[Back to the Top](https://github.com/mikeroyal/LabVIEW-Guide#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
