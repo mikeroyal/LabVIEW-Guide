@@ -54,12 +54,11 @@
 
 [LV-MQTT-Broker](https://github.com/LabVIEW-Open-Source/LV-MQTT-Broker) is the native LabVIEW MQTT Broker Server.
 
-
 [NI License Manager Third-Party SDK](https://www.ni.com/en-us/support/downloads/tools-network/download.license-manager-third-party-sdk.html) is a free add-on that helps you integrate third-party software into NI License Manager (NLM).
 
 [User Interface Manager for LabVIEW](https://www.ni.com/en-us/support/downloads/tools-network/download.user-interface-manager-for-labview.html) is a free software add-on that helps you capture, save, and load VI UI states with XML.
 
-[Python Integration Toolkit for LabVIEW] (https://www.ni.com/en-us/support/downloads/tools-network/download.python-integration-toolkit-for-labview.html) is a set of tools that provides live communication between Python and LabVIEW.
+[Python Integration Toolkit for LabVIEW](https://www.ni.com/en-us/support/downloads/tools-network/download.python-integration-toolkit-for-labview.html) is a set of tools that provides live communication between Python and LabVIEW.
 
 [Arduino™- Compatible Compiler for LabVIEW](https://www.ni.com/en-us/shop/software/products/arduino--compatible-compiler-for-labview.html) is a tool that helps you compile and download LabVIEW VIs to Arduino targets.
 
