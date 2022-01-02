@@ -55,6 +55,47 @@
 [LV-MQTT-Broker](https://github.com/LabVIEW-Open-Source/LV-MQTT-Broker) is the native LabVIEW MQTT Broker Server.
 
 
+[NI License Manager Third-Party SDK](https://www.ni.com/en-us/support/downloads/tools-network/download.license-manager-third-party-sdk.html) is a free add-on that helps you integrate third-party software into NI License Manager (NLM).
+
+[User Interface Manager for LabVIEW](https://www.ni.com/en-us/support/downloads/tools-network/download.user-interface-manager-for-labview.html) is a free software add-on that helps you capture, save, and load VI UI states with XML.
+
+[Python Integration Toolkit for LabVIEW] (https://www.ni.com/en-us/support/downloads/tools-network/download.python-integration-toolkit-for-labview.html) is a set of tools that provides live communication between Python and LabVIEW.
+
+[Arduino™- Compatible Compiler for LabVIEW](https://www.ni.com/en-us/shop/software/products/arduino--compatible-compiler-for-labview.html) is a tool that helps you compile and download LabVIEW VIs to Arduino targets.
+
+[ModalVIEW](https://www.ni.com/en-us/shop/software/products/modalview.html) is a tool that helps you perform multichannel data acquisition of sound and vibration.
+
+[SP7 Toolkit for LabVIEW](https://www.ni.com/en-us/shop/software/products/sp7-toolkit-for-labview.html) is a tool that helps you access S7 programmable logic controllers. S7 programmable logic controllers.
+
+[Localization Toolkit for LabVIEW](https://www.ni.com/en-us/shop/software/products/localization-toolkit-for-labview.html) is a tool that helps you create and distribute multilanguage applications.
+
+[Queued Message Handler](https://www.ni.com/en-us/support/downloads/tools-network/download.queued-message-handler.html) is a free software add-on that helps you implement and communicate among parallel loops.
+
+[UI Control Suite: NI Theme](https://www.ni.com/en-us/support/downloads/tools-network/download.ni-theme-ui-controls-toolkit.html) is a free software add-on that helps you build professional user interfaces with custom controls.
+
+[MGI Libray](https://gitlab.com/mgi/labview-tools-network) is a set of general-purpose library VIs which are available as packages on the LabVIEW Tools Network.
+
+[VI Package Manager](https://www.vipm.io/about/) is JKI's flagship toolkit ships with LabVIEW and allows you to discover, create, and share LabVIEW add-ons. VIPM gives you instant access to the add-ons on the LabVIEW Tools Network.
+
+[VI Tester](https://github.com/JKISoftware/JKI-VI-Tester) is a software test framework for LabVIEW that allows software developers to test their LabVIEW code (VIs). Software testing is a critical component of agile development and test driven development processes and is also critical for validating software functionality. VI Tester is based on the industry standard xUnit software test architecture that is used in many other programming languages.
+
+[JKI Flat UI Controls 2.0 for LabVIEW](https://blog.jki.net/introducing-the-flat-ui-controls-2.0-jki-design-palette-for-labview?hsLang=en) is a beautiful, professionally-designed set of LabVIEW controls that we use on many of our projects here at JKI! These controls are a great starting point for creating modern user interfaces because they are designed for a simple visual aesthetic, allowing end users to have a more streamlined workflow.
+
+[JKI Design Palette](https://www.vipm.io/about/) is a tool that provides LabVIEW users with a fast and easy way to build better user interfaces by design™. It does this by providing a visual palette for finding front controls and indicators that look just like they do on the VI Front Panel.
+
+[JKI State Machine for LabVIEW](https://github.com/JKISoftware/JKI-State-Machine) is an easy-to-use yet powerful state machine template. It is the very same template that is used by the JKI team.
+
+[JKI State Machine Objects (SMO) framework](https://github.com/JKISoftware/JKI-State-Machine-Objects) is a lightweight and easy to understand development framework that extends the functionality of the JKI State Machine and allows you to create scalable and modular applications in LabVIEW using object-oriented design. The SMO framework you can spawn multiple state machines that run asynchronously and have them communicate to each other via events.
+
+[HTTP REST Client](https://github.com/JKISoftware/JKI-REST-Client) is a library for connecting LabVIEW applications with RESTful web services for creating Industrial Internet of Things (IoT) applications. This library extends LabVIEW’s native HTTP client with powerful features such as support for the status code, support for multiple parallel requests, support for request specific HTTP headers and support for automatically escaping URLs.
+
+[JKI JSON](https://github.com/JKISoftware/JKI-JSON-Serialization) is a library for flattening LabVIEW data to JSON strings and for unflattening JSON strings back to LabVIEW data. This library extends LabVIEW’s native JSON serialization with powerful features such as ability to unflatten JSON strings directly to LabVIEW variants, a feature that is useful when building reusable software components.
+
+[EasyXML Toolkit for LabVIEW](https://github.com/JKISoftware/JKI-EasyXML) is a simple set of VIs that make generating and parsing XML data in LabVIEW straightforward and seamless. Spend more time developing a great application and let the Easy XML toolkit handle the details of XML.
+
+[Caraya Unit Tester](https://github.com/JKISoftware/Caraya) is a popular open source unit testing and assertion framework for LabVIEW by JKI. It takes a whole new approach to unit testing; your VI is your test. Caraya allows you to convert your manual test VIs you use for debugging into unit test cases with nearly no effort. Even running the tests is easy, just run the test case VI.
+
+
 ## Contribute
 
 - [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/LabVIEW-Guide/pulls).
